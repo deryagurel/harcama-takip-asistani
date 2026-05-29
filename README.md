@@ -13,3 +13,6 @@ Bu proje, kullanıcıların gelir ve giderlerini dinamik olarak takip edebilecek
 - MySQL
 - HTML5 & Modern CSS (Karanlık Tema)
 - Chart.js (Veri Görselleştirme)
+### 🎥 Proje Videosu
+[Projenin arayüz ve çalışma testini izlemek için buraya tıklayın](https://youtu.be/viLebv8Oe7Y?si=oZNAKtxkg5R6NOEm)
+  
